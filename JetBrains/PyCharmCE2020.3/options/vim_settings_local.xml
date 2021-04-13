@@ -1,0 +1,89 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">d3E=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/python/calculus1_3/calculus.py" timestamp="1617045603331">
+        <mark key="[" line="214" column="7" />
+        <mark key="]" line="214" column="8" />
+        <mark key="." line="214" column="8" />
+      </file>
+      <file name="/Python Console" timestamp="1617123395064">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/python/calculus1_3/calculus_1.py" timestamp="1617177360218">
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="255" column="36" />
+        <mark key="^" line="255" column="36" />
+        <mark key="." line="255" column="35" />
+      </file>
+      <file name="$USER_HOME$/python/calculus1_3/main.py" timestamp="1616921651308">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="133" column="57" filename="$USER_HOME$/python/calculus1_3/calculus_1.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/python/calculus1_3/calculus_1.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">IyBUT0RPOiBpbXBsZW1lbnQgZGVmaW5pdGUgaW50ZWdyYWxzCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBUT0RPOiBpbXBsZW1lbnQgZGVmaW5pdGUgaW50ZWdyYWxzCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBUT0RPOiBjb3JyZWN0IGludGVncmF0aW9uIChuID0gMSwgMiB3b3JrcykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoaW50ZWdyYXRlKHgqKjIsICh4LCAwLCAxKSkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cHJpbnQoc2VsZi5mKQogICAgICAgICAgICAgICAgICAgIHByaW50KHMudikKICAgICAgICAgICAgICAgICAgICBwcmludChzLmEuaW5mLCBzLmEuc3VwKQogICAgICAgICAgICAgICAgICAgIHByaW50KGludGVncmF0ZShzZWxmLmYsIChzLnYsIHMuYS5pbmYsIHMuYS5zdXApKSk=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiMjIyMjIyBJTVBMRU1FTlQgREVGSU5JVEUgSU5URUdSQUxTCiMjIyMjIyBORUVEIFRPIEFERCBQTE9UVElORyBGRUFUVVJFIChNSUdIVCBETyBJVCBXSVRIIEFuIE9DVEFWRSBTQ1JJUFQpCgojIyMjIyMgTkVFRFMgRVhURU5TSVZFIFRFU1RJTkcgSU4gRVZFUlkgT1RIRVIgRlJPTlQK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gY2FydDoK</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">d3E=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">MQ==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+</application>

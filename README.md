@@ -1,2 +1,2 @@
-# .config-
-My config files
+This are my configuration files
+

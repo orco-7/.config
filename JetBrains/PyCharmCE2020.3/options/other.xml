@@ -1,0 +1,54 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Liberation Serif" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1qNY0jbeuRYP8NJdy3J4KV6TnMC">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="appcds.runOnSecondStart" value="PC-203.7717.81-5140f1575e125a2df1e22c6c0fec8daf64cdfbaae953d4b9335e55cfd40f30a6" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.gist.reindex.count" value="14872" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PC-203.7717.81" />
+    <property name="ideavim.statistics.timestamp" value="1617131494519" />
+    <property name="ignore.bundled.jre.version.message" value="true" />
+    <property name="lastSeenTip" value="neue-CheckRegExp.html" />
+    <property name="lastTimeTipsWereShown" value="1618210669249" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="seenTips" value="neue-OverrideImplementMethods.html,neue-OnDemandLoadingPolicy.html,neue-CodeCompletionNoShift.html,neue-CheckRegExp.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/python/calculus1_3/venv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

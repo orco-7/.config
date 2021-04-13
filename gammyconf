@@ -1,0 +1,22 @@
+{
+    "brt_auto": true,
+    "brt_extend": false,
+    "brt_fps": 60,
+    "brt_max": 460,
+    "brt_min": 100,
+    "brt_offset": 492,
+    "brt_polling_rate": 100,
+    "brt_speed": 2,
+    "brt_step": 460,
+    "brt_threshold": 8,
+    "log_level": 3,
+    "show_on_startup": false,
+    "temp_auto": false,
+    "temp_fps": 45,
+    "temp_high": 6500,
+    "temp_low": 3400,
+    "temp_speed": 45.0,
+    "temp_step": 0,
+    "temp_sunrise": "06:00:00",
+    "temp_sunset": "16:00:00"
+}

@@ -1,0 +1,42 @@
+window:
+  decorations: none
+  title: Alacritty
+  dynamic_title: true
+
+scrolling:
+  history: 10000
+  multplier: 3
+
+font:
+  normal:
+    family: monospace
+    style: bold
+
+  bold:
+    family: monospace
+    style: bold
+
+  size: 11.0
+
+colors:
+  primary:
+    background: '#1d1f21'
+    foreground: '#0ead69'
+
+  cursor:
+    text: '#0ead69'
+    cursor: '#ee4266'
+
+background_opacity: 0.7
+
+cursor:
+  style: Underline
+  vi_mode_style: Block
+  unfocused_hollow: true
+
+shell:
+  program: /usr/bin/bash
+
+mouse_bindings:
+  - { mouse: Middle, action: PasteSelection }
+

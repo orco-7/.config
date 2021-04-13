@@ -1,0 +1,150 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/calculus.py" />
+      <option value="$PROJECT_DIR$/calculus_1.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="calculus1_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="calculus1_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-" />
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2843895" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.27031803" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.3286219" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.32685512" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286219" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.25618374" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+    </layout>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="275" y="219" width="800" height="675" key="#Intentions" timestamp="1617103229430">
+      <screen x="0" y="187" width="1360" height="741" />
+    </state>
+    <state x="275" y="219" width="800" height="675" key="#Intentions/0.187.1360.741/1360.0.1920.1080@0.187.1360.741" timestamp="1617103229430" />
+    <state x="400" y="364" width="550" height="343" key="#Notifications" timestamp="1617045950576">
+      <screen x="0" y="166" width="1360" height="741" />
+    </state>
+    <state x="400" y="364" width="550" height="343" key="#Notifications/0.166.1360.741/1360.0.1920.1080@0.166.1360.741" timestamp="1617045950576" />
+    <state width="1316" height="125" key="GridCell.Tab.0.bottom" timestamp="1617177383676">
+      <screen x="0" y="187" width="1360" height="741" />
+    </state>
+    <state width="1316" height="156" key="GridCell.Tab.0.bottom/0.166.1360.741/1360.0.1920.1080@0.166.1360.741" timestamp="1617046237357" />
+    <state width="1316" height="125" key="GridCell.Tab.0.bottom/0.187.1360.741/1360.0.1920.1080@0.187.1360.741" timestamp="1617177383676" />
+    <state width="1316" height="125" key="GridCell.Tab.0.center" timestamp="1617177383675">
+      <screen x="0" y="187" width="1360" height="741" />
+    </state>
+    <state width="1316" height="156" key="GridCell.Tab.0.center/0.166.1360.741/1360.0.1920.1080@0.166.1360.741" timestamp="1617046237354" />
+    <state width="1316" height="125" key="GridCell.Tab.0.center/0.187.1360.741/1360.0.1920.1080@0.187.1360.741" timestamp="1617177383675" />
+    <state width="1316" height="125" key="GridCell.Tab.0.left" timestamp="1617177383675">
+      <screen x="0" y="187" width="1360" height="741" />
+    </state>
+    <state width="1316" height="156" key="GridCell.Tab.0.left/0.166.1360.741/1360.0.1920.1080@0.166.1360.741" timestamp="1617046237352" />
+    <state width="1316" height="125" key="GridCell.Tab.0.left/0.187.1360.741/1360.0.1920.1080@0.187.1360.741" timestamp="1617177383675" />
+    <state width="1316" height="125" key="GridCell.Tab.0.right" timestamp="1617177383675">
+      <screen x="0" y="187" width="1360" height="741" />
+    </state>
+    <state width="1316" height="156" key="GridCell.Tab.0.right/0.166.1360.741/1360.0.1920.1080@0.166.1360.741" timestamp="1617046237355" />
+    <state width="1316" height="125" key="GridCell.Tab.0.right/0.187.1360.741/1360.0.1920.1080@0.187.1360.741" timestamp="1617177383675" />
+    <state x="95" y="179" width="982" height="728" key="SettingsEditor" timestamp="1617046007047">
+      <screen x="0" y="166" width="1360" height="741" />
+    </state>
+    <state x="95" y="179" width="982" height="728" key="SettingsEditor/0.166.1360.741/1360.0.1920.1080@0.166.1360.741" timestamp="1617046007047" />
+    <state x="1816" y="188" key="SettingsEditor/0.190.1360.741/1360.0.1920.1080@1360.0.1920.1080" timestamp="1616921596585" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculus_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="160" column="25" selection-start-line="160" selection-start-column="25" selection-end-line="160" selection-end-column="25" />
+          <folding>
+            <element signature="e#6223#7814#0" />
+            <element signature="e#8097#9060#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,193 @@
+16:01:47.119: CPU Name: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+16:01:47.119: CPU Speed: 2100.000MHz
+16:01:47.119: Physical Cores: 4, Logical Cores: 8
+16:01:47.119: Physical Memory: 11778MB Total, 9376MB Free
+16:01:47.119: Kernel Version: Linux 5.11.13-arch1-1
+16:01:47.119: Distribution: "Arch Linux" Unknown
+16:01:47.119: Session Type: x11
+16:01:47.119: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.10
+16:01:47.120: Portable mode: false
+16:01:47.179: OBS 26.1.2-2 (linux)
+16:01:47.179: ---------------------------------
+16:01:47.268: ---------------------------------
+16:01:47.268: audio settings reset:
+16:01:47.268: 	samples per sec: 48000
+16:01:47.268: 	speakers:        2
+16:01:47.270: ---------------------------------
+16:01:47.270: Initializing OpenGL...
+16:01:47.309: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics (CML GT2)
+16:01:47.309: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.0.2, shading language 4.60
+16:01:47.348: ---------------------------------
+16:01:47.348: video settings reset:
+16:01:47.348: 	base resolution:   1359x767
+16:01:47.348: 	output resolution: 1356x766
+16:01:47.348: 	downscale filter:  Bicubic
+16:01:47.348: 	fps:               30/1
+16:01:47.348: 	format:            NV12
+16:01:47.348: 	YUV mode:          709/Partial
+16:01:47.348: NV12 texture support not available
+16:01:47.351: Audio monitoring device:
+16:01:47.351: 	name: Default
+16:01:47.351: 	id: default
+16:01:47.351: ---------------------------------
+16:01:47.352: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:01:47.354: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+16:01:47.355: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: cannot open shared object file: No such file or directory
+16:01:47.355: 
+16:01:47.355: Module '/usr//lib/obs-plugins/frontend-tools.so' not loaded
+16:01:47.360: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:01:47.360: No blackmagic support
+16:01:47.366: v4l2loopback not installed, virtual camera disabled
+16:01:47.377: NVENC supported
+16:01:47.377: FFMPEG VAAPI supported
+16:01:47.391: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+16:01:47.391: 
+16:01:47.391: Couldn't find VLC installation, VLC video source disabled
+16:01:47.391: ---------------------------------
+16:01:47.391:   Loaded Modules:
+16:01:47.391:     vlc-video.so
+16:01:47.391:     text-freetype2.so
+16:01:47.391:     rtmp-services.so
+16:01:47.391:     obs-x264.so
+16:01:47.391:     obs-transitions.so
+16:01:47.391:     obs-outputs.so
+16:01:47.391:     obs-libfdk.so
+16:01:47.391:     obs-filters.so
+16:01:47.391:     obs-ffmpeg.so
+16:01:47.391:     linux-v4l2.so
+16:01:47.391:     linux-pulseaudio.so
+16:01:47.391:     linux-jack.so
+16:01:47.391:     linux-decklink.so
+16:01:47.391:     linux-capture.so
+16:01:47.391:     linux-alsa.so
+16:01:47.391:     image-source.so
+16:01:47.391:     decklink-ouput-ui.so
+16:01:47.391:     decklink-captions.so
+16:01:47.391: ---------------------------------
+16:01:47.391: ==== Startup complete ===============================================
+16:01:47.394: All scene data cleared
+16:01:47.394: ------------------------------------------------
+16:01:47.397: pulse-input: Server name: 'pulseaudio 14.2'
+16:01:47.397: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+16:01:47.397: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.hdmi-stereo.monitor'
+16:01:47.397: [Loaded global audio device]: 'Desktop Audio'
+16:01:47.401: pulse-input: Server name: 'pulseaudio 14.2'
+16:01:47.401: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+16:01:47.401: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.hdmi-stereo.monitor'
+16:01:47.401: xshm-input: Geometry 1360x768 @ 0,0
+16:01:47.403: Switched to scene 'Scene'
+16:01:47.403: ------------------------------------------------
+16:01:47.403: Loaded scenes:
+16:01:47.403: - scene 'Scene':
+16:01:47.403:     - source: 'Screen Capture (XSHM)' (xshm_input)
+16:01:47.403:     - source: 'Audio Output Capture (PulseAudio)' (pulse_output_capture)
+16:01:47.403: ------------------------------------------------
+16:01:47.966: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Audio Output Capture (PulseAudio))
+16:01:47.966: 
+16:06:08.973: ---------------------------------
+16:06:08.974: [NVENC encoder: 'simple_h264_recording'] settings:
+16:06:08.974: 	rate_control: CQP
+16:06:08.974: 	bitrate:      0
+16:06:08.974: 	cqp:          21
+16:06:08.974: 	keyint:       250
+16:06:08.974: 	preset:       hq
+16:06:08.974: 	profile:      high
+16:06:08.974: 	width:        1356
+16:06:08.974: 	height:       766
+16:06:08.974: 	2-pass:       false
+16:06:08.974: 	b-frames:     2
+16:06:08.974: 	GPU:          0
+16:06:08.974: 
+16:06:09.210: [NVENC encoder: 'simple_h264_recording'] Failed to open NVENC codec: Generic error in an external library
+16:06:41.606: Settings changed (outputs)
+16:06:41.606: ------------------------------------------------
+16:06:46.057: ---------------------------------
+16:06:46.057: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+16:06:46.057: [x264 encoder: 'simple_h264_recording'] profile: high
+16:06:46.065: [x264 encoder: 'simple_h264_recording'] settings:
+16:06:46.065: 	rate_control: CRF
+16:06:46.065: 	bitrate:      0
+16:06:46.065: 	buffer size:  0
+16:06:46.065: 	crf:          21
+16:06:46.065: 	fps_num:      30
+16:06:46.065: 	fps_den:      1
+16:06:46.065: 	width:        1356
+16:06:46.065: 	height:       766
+16:06:46.065: 	keyint:       250
+16:06:46.065: 
+16:06:46.069: libfdk_aac encoder created
+16:06:46.069: libfdk_aac bitrate: 192, channels: 2
+16:06:46.395: ==== Recording Start ===============================================
+16:06:46.395: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/simone/storage/Videos/2021-04-12 16-06-46.mkv'...
+16:16:10.958: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/simone/storage/Videos/2021-04-12 16-06-46.mkv' stopped
+16:16:10.958: Output 'simple_file_output': stopping
+16:16:10.958: Output 'simple_file_output': Total frames output: 16910
+16:16:10.958: Output 'simple_file_output': Total drawn frames: 16937
+16:16:10.959: ==== Recording Stop ================================================
+16:16:10.965: libfdk_aac encoder destroyed
+16:17:53.162: ---------------------------------
+16:17:53.162: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+16:17:53.162: [x264 encoder: 'simple_h264_recording'] profile: high
+16:17:53.162: [x264 encoder: 'simple_h264_recording'] settings:
+16:17:53.162: 	rate_control: CRF
+16:17:53.162: 	bitrate:      0
+16:17:53.162: 	buffer size:  0
+16:17:53.162: 	crf:          21
+16:17:53.162: 	fps_num:      30
+16:17:53.162: 	fps_den:      1
+16:17:53.162: 	width:        1356
+16:17:53.162: 	height:       766
+16:17:53.162: 	keyint:       250
+16:17:53.162: 
+16:17:53.165: libfdk_aac encoder created
+16:17:53.165: libfdk_aac bitrate: 192, channels: 2
+16:17:53.167: ==== Recording Start ===============================================
+16:17:53.167: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/simone/storage/Videos/2021-04-12 16-17-53.mkv'...
+16:52:18.673: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/simone/storage/Videos/2021-04-12 16-17-53.mkv' stopped
+16:52:18.673: Output 'simple_file_output': stopping
+16:52:18.674: Output 'simple_file_output': Total frames output: 61931
+16:52:18.674: Output 'simple_file_output': Total drawn frames: 61959
+16:52:18.674: ==== Recording Stop ================================================
+16:52:18.681: libfdk_aac encoder destroyed
+16:57:50.566: ---------------------------------
+16:57:50.566: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+16:57:50.567: [x264 encoder: 'simple_h264_recording'] profile: high
+16:57:50.567: [x264 encoder: 'simple_h264_recording'] settings:
+16:57:50.567: 	rate_control: CRF
+16:57:50.567: 	bitrate:      0
+16:57:50.567: 	buffer size:  0
+16:57:50.567: 	crf:          21
+16:57:50.567: 	fps_num:      30
+16:57:50.567: 	fps_den:      1
+16:57:50.567: 	width:        1356
+16:57:50.567: 	height:       766
+16:57:50.567: 	keyint:       250
+16:57:50.567: 
+16:57:50.574: libfdk_aac encoder created
+16:57:50.574: libfdk_aac bitrate: 192, channels: 2
+16:57:50.582: ==== Recording Start ===============================================
+16:57:50.582: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/simone/storage/Videos/2021-04-12 16-57-50.mkv'...
+17:31:21.411: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/simone/storage/Videos/2021-04-12 16-57-50.mkv' stopped
+17:31:21.411: Output 'simple_file_output': stopping
+17:31:21.411: Output 'simple_file_output': Total frames output: 60297
+17:31:21.411: Output 'simple_file_output': Total drawn frames: 60325
+17:31:21.412: ==== Recording Stop ================================================
+17:31:21.430: libfdk_aac encoder destroyed
+17:40:44.689: ---------------------------------
+17:40:44.689: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+17:40:44.689: [x264 encoder: 'simple_h264_recording'] profile: high
+17:40:44.689: [x264 encoder: 'simple_h264_recording'] settings:
+17:40:44.689: 	rate_control: CRF
+17:40:44.689: 	bitrate:      0
+17:40:44.689: 	buffer size:  0
+17:40:44.689: 	crf:          21
+17:40:44.689: 	fps_num:      30
+17:40:44.689: 	fps_den:      1
+17:40:44.689: 	width:        1356
+17:40:44.689: 	height:       766
+17:40:44.689: 	keyint:       250
+17:40:44.689: 
+17:40:44.696: libfdk_aac encoder created
+17:40:44.696: libfdk_aac bitrate: 192, channels: 2
+17:40:44.702: ==== Recording Start ===============================================
+17:40:44.702: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/simone/storage/Videos/2021-04-12 17-40-44.mkv'...

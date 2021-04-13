@@ -1,0 +1,127 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Cut">
+      <i c="1" l="1617042114631" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1617042144304" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="1" l="1617102154051" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="25" l="1617102992377" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1617043659209" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="9" l="1617123066577" />
+    </e>
+    <e n="EditorDown">
+      <i c="13" l="1617176261038" />
+    </e>
+    <e n="EditorLeft">
+      <i c="10" l="1617123055257" />
+    </e>
+    <e n="EditorRight">
+      <i c="65" l="1617176903212" />
+    </e>
+    <e n="EditorTab">
+      <i c="15" l="1617122655907" />
+    </e>
+    <e n="EditorUp">
+      <i c="15" l="1617176262014" />
+    </e>
+    <e n="MaterialTheme.Accents">
+      <i c="5" l="1617046058778" />
+    </e>
+    <e n="MaterialTheme.Components">
+      <i c="1" l="1617046068770" />
+    </e>
+    <e n="MaterialTheme.Wizard">
+      <i c="1" l="1617046076809" />
+    </e>
+    <e n="Run">
+      <i c="40" l="1617177317888" />
+    </e>
+    <e n="RunClass">
+      <i c="3" l="1617102725538" />
+    </e>
+    <e n="SaveAll">
+      <i c="6" l="1617131483101" />
+    </e>
+    <e n="SaveAs">
+      <i c="3" l="1617131494339" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="8" l="1617043179187" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1617045955624" />
+    </e>
+    <e n="Synchronize">
+      <i c="1" l="1617046176970" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="3" l="1617103803798" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="1" l="1617042685308" />
+    </e>
+    <e n="ViewToolBar">
+      <i c="1" l="1617042334651" />
+    </e>
+    <e n="com.intellij.ide.SystemHealthMonitor$3">
+      <i c="1" l="1617101998390" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="3322" l="1617177373944" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="1" l="1617042648378" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1617102671184" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$12">
+      <i c="1" l="1616921539511" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="3" l="1618210690239" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="4" l="1617175426913" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
+      <i c="1" l="1617042344124" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1616921183594" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="3" l="1617103805796" />
+    </e>
+    <e n="com.jetbrains.python.console.PydevConsoleRunnerImpl$SoftWrapAction">
+      <i c="1" l="1616921671428" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="8" l="1617177375947" />
+    </e>
+    <e n="com.mallowigi.idea.actions.accents.MTAmethystAccentAction">
+      <i c="1" l="1617046032938" />
+    </e>
+    <e n="com.mallowigi.idea.actions.accents.MTBrickAccentAction">
+      <i c="2" l="1617046061016" />
+    </e>
+    <e n="com.mallowigi.idea.actions.accents.MTFuchsiaAccentAction">
+      <i c="1" l="1617046055015" />
+    </e>
+    <e n="com.mallowigi.idea.actions.accents.MTStrawberryAccentAction">
+      <i c="1" l="1617046046304" />
+    </e>
+    <e n="de.halirutan.keypromoterx.KeyPromoterNotification$SuppressTipAction">
+      <i c="2" l="1617043186489" />
+    </e>
+  </component>
+</application>
