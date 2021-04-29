@@ -1,0 +1,54 @@
+Config {
+	font		= "xft:Ubuntu:weight:bold:pixelsize=11:antialias=true:hinting=true"
+	additionalFonts = [ "xft:Mononoki Nerd Font:pixelsize=14:antialias=true:hinting=true",
+			    "xft:FontAwesome:pixelsize=14"],
+	bgColor		= "#282c34",
+	fgColor		= "#03abf7",
+	alpha		= 100,
+	position	= Static {xpos = 1360, ypos = 0, width = 1920 , height = 24},
+	lowerOnStart	= True,
+	hideOnStart	= False,
+	allDesktops	= True,
+	persistent	= True,
+	iconRoot	= "~/.xmonad/xpm/",
+	commands	= [
+		-- wifi  <fn=1>\xf103</fn> <fn=1>\xf102</fn> 
+		Run Network "wlo1" ["-t", "<fn=1>\xf103</fn> <rx>kb <fn=1>\xf102</fn> <tx>kn"] 20,
+		
+		-- RAM<fn=1>\xf538</fn> 
+		Run Memory [ "-t", "RAM: <used>M (<usedratio>%)"] 20,
+		
+		-- CPU<fn=1>\xf2db</fn> 
+		Run Cpu ["-t", "CPU: <total>%"] 20,
+		
+		-- Battery<fn=1>\xf5df</fn> 
+		--Run BatteryP ["BAT0"] ["-t", "<left>% <acstatus><watts>", "-L", "10", "-H", "90", "-p", "#4CAF50", "--", "-l", "red", "-h", "blue", "-a", "notify-send -u critical 'Battery almost empty!!'", "-A", "6"] 600,
+		Run BatteryP ["BAT1"]
+                 ["-t", "<acstatus><watts> W (<left>%)", "-L", "10", "-H", "80", "-p", "3", "--", "-O", "<fc=green>On</fc> - ", "-i", "", "-L", "-15", "-H", "-5", "-l", "red", "-m", "blue", "-h", "green", "-a", "notify-send -u critical 'Battery running out!!'", "-A", "3"] 600,
+                 
+		-- Temperature<fn=1>\xf769</fn> 
+		Run MultiCoreTemp ["-t", "<avg>", "-H", "65", "-h", "red"] 50,
+		
+		-- Cpu frequencies
+		Run CpuFreq ["-t", "<cpu0>GHz", "-H", "2.5", "-h", "red"] 50,
+		
+		-- Kernel
+		Run Com "uname" ["-r"] "" 60000,
+	
+		-- Pacman updates
+		Run Com "/bin/bash" ["-c", "~/.local/bin/pacupdate"] "pacupdate" 36000,
+
+		-- ws, layout, title
+		Run UnsafeStdinReader,
+		
+		-- Time and date
+                Run Date "<fn=1>\xf133</fn>  %b %d %Y - (%H:%M) " "date" 50,
+		
+		-- creates space for systray
+		Run Com "~/.config/xmobar/trayer-padding-icon.sh" [] "trayerpad" 20
+	],
+	sepChar		= "%",
+	alignSep	= "}{",
+	template = " <action=`xdotool key control+alt+g`><icon=haskell_20.xpm/> </action><fc=#666666>  |</fc> %UnsafeStdinReader% }{ <fc=#666666> |</fc> <fc=#b3afc2><fn=1> </fn>  %uname% </fc><fc=#666666> |</fc> <fc=#ecbe7b> %cpu% %multicoretemp% </fc><fc=#666666> |</fc> <fc=#ff6c6b> %memory% </fc><fc=#666666> |</fc> %pacupdate% <fc=#666666> |</fc> <fc=#98be65> %wlo1% </fc><fc=#666666> |</fc>  <fc=#c678dd><fn=1> </fn>  %battery% </fc><fc=#666666> |</fc> <fc=#46d9ff> %date%     </fc> "
+	
+}

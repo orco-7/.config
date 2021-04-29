@@ -1,0 +1,7 @@
+
+xmonad.hs:106:1: warning: [-Wtabs]
+    Tab character found here, and in 218 further locations.
+    Please use spaces instead.
+    |
+106 |           spawnOnce "numlockx on &"
+    | ^^^^^^^^

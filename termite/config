@@ -46,41 +46,79 @@ urgent_on_bell = true
 
 [colors]
 # ArcoLinux Default Theme
-background = rgba(40, 42, 54, 0.8)
+#background = rgba(40, 42, 54, 0.8)
 
 # special
-foreground      = #f8f8f2
-foreground_bold = #f8f8f2
-cursor          = #f8f8f2
+#foreground      = #f8f8f2
+#foreground_bold = #f8f8f2
+#cursor          = #f8f8f2
 
 # black
-color0  = #000000
-color8  = #79A9FF
+#color0  = #000000
+#color8  = #79A9FF
 
 # red
-color1  = #ff5555
-color9  = #ff6e67
+#color1  = #ff5555
+#color9  = #ff6e67
 
 # green
-color2  = #50fa7b
-color10 = #5af78e
+#color2  = #50fa7b
+#color10 = #5af78e
 
 # yellow
-color3  = #f1fa8c
-color11 = #f4f99d
+#color3  = #f1fa8c
+#color11 = #f4f99d
 
 # blue
-color4  = #6790EB
-color12 = #79A9FF
+#color4  = #6790EB
+#color12 = #79A9FF
 
 # magenta
-color5  = #ff79c6
-color13 = #ff92d0
+#color5  = #ff79c6
+#color13 = #ff92d0
 
 # cyan
-color6  = #8be9fd
-color14 = #9aedfe
+#color6  = #8be9fd
+#color14 = #9aedfe
 
 # white
-color7  = #bfbfbf
-color15 = #e6e6e6
+#color7  = #bfbfbf
+#color15 = #e6e6e6
+
+#special
+foreground = #84ccec
+foreground_bold = #84ccec
+background = rgba(67, 25, 36, 0.7)
+cursor = #f8f8f8
+#black
+color0 = #ee4266
+color8 = #373b41
+
+#red
+color1 = #a54242
+color9 = #cc6666
+
+#green
+color2 = #8c9440
+color10 = #b5bd68
+
+#yellow
+color3 = #84ccec
+color11 = #f0c674
+
+#blue
+color4 = #5f819d
+color12 = #81a2be
+
+#magenta
+color5 = #85678f
+color13 = #b294bb
+
+#cyan
+color6 = #5e8d87
+color14 = #8abeb7
+
+#white
+color7 = #707880
+color15 = #f47d73
+
